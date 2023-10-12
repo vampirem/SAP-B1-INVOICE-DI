@@ -1,0 +1,83 @@
+C:\MIKE FILES\App\SAP B1\bin\Debug\SAP_B1.exe.config
+C:\MIKE FILES\App\SAP B1\bin\Debug\SAP_B1.exe
+C:\MIKE FILES\App\SAP B1\bin\Debug\SAP_B1.pdb
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAPB1.csproj.AssemblyReference.cache
+C:\MIKE FILES\App\SAP B1\obj\Debug\Interop.SAPbobsCOM.dll
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAPB1.csproj.ResolveComReference.cache
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.BOMForm.resources
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.LogInForm.resources
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.ProductionOrder.resources
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.Properties.Resources.resources
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAPB1.csproj.GenerateResource.cache
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAPB1.csproj.CoreCompileInputs.cache
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.exe
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.pdb
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.MainForm.resources
+C:\MIKE FILES\App\SAP B1\obj\Debug\SAP_B1.ProductionList.resources
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\SAP_B1.exe.config
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\SAP_B1.exe
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\SAP_B1.pdb
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\Interop.SAPbobsCOM.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAPB1.csproj.ResolveComReference.cache
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAP_B1.Invoice.resources
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAP_B1.LogInForm.resources
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAP_B1.Properties.Resources.resources
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAPB1.csproj.GenerateResource.cache
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAPB1.csproj.CoreCompileInputs.cache
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAP_B1.exe
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAP_B1.pdb
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\FlashControlV71.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\stdole.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAPB1.csproj.CopyComplete
+C:\MIKE FILES\App\SAP B1 DI API - Invoice\obj\Debug\SAP_B1.Form1.resources
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\SAP_B1.exe.config
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\SAP_B1.exe
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\SAP_B1.pdb
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.Shared.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\FlashControlV71.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\stdole.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\bin\Debug\ShockwaveFlashObjects.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAPB1.csproj.AssemblyReference.cache
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\Interop.SAPbobsCOM.dll
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAPB1.csproj.ResolveComReference.cache
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAP_B1.Form1.resources
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAP_B1.Invoice.resources
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAP_B1.LogInForm.resources
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAP_B1.Properties.Resources.resources
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAPB1.csproj.GenerateResource.cache
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAPB1.csproj.CoreCompileInputs.cache
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAPB1.csproj.CopyComplete
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAP_B1.exe
+C:\MIKE FILES\App\SAP B1 DI API - Deposit\obj\Debug\SAP_B1.pdb
