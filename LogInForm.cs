@@ -32,13 +32,13 @@ namespace SAP_B1
             try
             {
 
-                globalD.oCompany.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_MSSQL2014;
-                globalD.oCompany.Server = "SBOSERVERUSRI";
+                globalD.oCompany.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_MSSQL2014; // MSSQLVersion
+                globalD.oCompany.Server = "serverhostname";
                 globalD.oCompany.language = SAPbobsCOM.BoSuppLangs.ln_English;
                 globalD.oCompany.UseTrusted = false;
-                globalD.oCompany.CompanyDB = "Z_TEST_10";
+                globalD.oCompany.CompanyDB = "databasename";
                 globalD.oCompany.DbUserName = "sa";
-                globalD.oCompany.DbPassword = "Sb1@usri";
+                globalD.oCompany.DbPassword = "pass";
 
                 globalD.oCompany.UserName = textUserName.Text;
                 //user password
